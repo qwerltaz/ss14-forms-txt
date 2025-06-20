@@ -1,0 +1,27 @@
+[color=#f39f27]░░▄▀░░ [head=2]Engineering Memo[/head]
+░▄█▄▄▀ [head=3]Subject: [/head]
+Optimal TEG setup
+██▀░░░ [head=3]From:  [/head]
+Crevis Gingoid, Principal atmoshperic Research Director at Atmospheric Solutions
+[/color]─────────────────────────────────────
+
+[head=2]Simple theromelectric generator setup with full-loop cold loop and hot loop with pneumatic adaptive ventillation[/head]
+
+[head=3][color=blue]Cold loop [/color][/head]
+
+The cold loop shall be a single connected loop in its entirety, instead of two loops connected with a pipe or such. The loop shall be partially exposed to space, with a radiator therein. There shall be a (barometric) pump set to maximum pressure, accordingly with the TEG flow direction.
+The gas in the cold loop will preferably be Dichlorodifluoromethane (commonly known as frezon), useful for its high heat capacity of 600, or plasma with 200 heat capacity. Any other gas will also work, so long as the pressure in the cold loop does not reach 4500kpa, the pressure at which barometric pumps begin to clog.
+
+[head=3][color=darkred]Hot loop[/color][/head]
+
+The hot pipenet should consist of a loop and a chamber.
+A small loop should go around the TEG inlet, and have a volumetric pump in it, accordingly with the flow of the TEG. It should then be connected by pipes with a passive vent inside a chamber. The same vent should also be connected to the pneumatic pressure release (see below).A mixture of 31% oxygen and 69% plasma should be pulled to a (barometric) pump, then to an injector inside of the chamber.
+
+[head=3]Pneumatic pressure release[/head]
+
+The chamber should be sealed with no hole leading to space. Place a pneumatic valve with its inlet connected to the passive vent and thus the hot loop. Now Connect the same passive vent to a volumetric pump (set to 20). Connect that pump's outlet to the filter of the pneumatic valve, and to another volumetric pump (set to 200). Then, connect the outlet of the second volumetric pump to the passive vent, and thus the hot loop. Next, connect the outlet of the pneumatic to another passive vent that is outside in space, so that gases in the outlet will be vented.
+
+[head=3]Start-up procedure[/head]
+1. Put a lit flare in the chamber.
+2. Set the mixture pump leading into the chamber injector to 555kpa and turn on for 10 seconds, then set to 25kpa.
+3. Monitor the pressure in both loops. If cold loop exceeds 4500kpa, vent some gas. If hot loop exceeds 9000kpa, adjust the mixture pump to a smaller number, and if hot loop stagnates to low temerature,  adjust to a higher number.
