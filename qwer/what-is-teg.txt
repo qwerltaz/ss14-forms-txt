@@ -5,5 +5,5 @@ You may have seen or operated a thermoelectric generator, but what even is this 
 [color=brown] The thermoelectric generator (TEG) [/color] or the Seebeck generator is a solid-state device. It has no moving parts. So where does the electricity come from? The TEG uses the Seebeck effect. When we have some metal, and apply high temperature to one end, the electrons there will acquire more kinetic energy, and so they will spread more, because each electron will want to move around and will occupy more space. This creates a deficiency of electrons, and thus a positive charge on that end of the metal, so the electrons travel to the other end, creating voltage. Now, if we connect both ends of two wires, each consisting of a metal with a different Seebeck coefficient, and we heat one connection, we get a high voltage differential in one wire and low in another. Those push against each other, and the one with greater Seebeck coefficient wins, and a current starts flowing through the circuit. And we get electricity from a heat difference! Group together many of those and you get a basic theromelectic generator.
 
 
-[color=gray]Crevis Gingoid, Principal atmoshperic Research Director at Atmospheric Solutions
+[color=gray]Principal atmoshperic Research Director at Atmospheric Solutions
 Huffing ideas at an interstellar scale.[/color]

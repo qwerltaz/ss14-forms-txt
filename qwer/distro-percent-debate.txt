@@ -1,6 +1,6 @@
 [color=#f39f27]░░▄▀░░ [head=2]Engineering Memo[/head]
 ░▄█▄▄▀ [head=3]Subject: Air distribution network contents [/head]
-██▀░░░ [head=3]From: Chief Engineer Crevis Gingoid [/head]
+██▀░░░ [head=3]From: Chief Engineer [/head]
 [/color]─────────────────────────────────────────
 You have probably set your distribution network to 22% oxygen before, and you may have seen others suggest higher or lower amounts. What is the ultimate truth now?
 
@@ -11,4 +11,4 @@ Does this make 22% incorrect? Not really. It's not what we used to have, but it'
 Other than this and the air alarms freaking out due to an abnormal percentage, there is no downsides to higher oxygenation, especially one above the normal amount.
 
 ──────────────────────────────────────────
-Sincerely, Crevis.
+Sincerely, Chief

@@ -2,7 +2,7 @@
 ░▄█▄▄▀ [head=3]Subject: [/head]
 Optimal TEG setup
 ██▀░░░ [head=3]From:  [/head]
-Crevis Gingoid, Principal atmoshperic Research Director at Atmospheric Solutions
+Principal atmoshperic Research Director at Atmospheric Solutions
 [/color]─────────────────────────────────────
 
 [head=2]Simple theromelectric generator setup with full-loop cold loop and hot loop with pneumatic adaptive ventillation[/head]
